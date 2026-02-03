@@ -1,0 +1,11 @@
+torch
+transformers
+pillow
+pymupdf
+numpy
+faiss-cpu
+langchain
+langchain-community
+scikit-learn
+python-dotenv
+streamlit
